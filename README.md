@@ -1,2 +1,5 @@
-# hw-2-groups-1-2-jdmrkv
-hw-2-groups-1-2-jdmrkv created by GitHub Classroom
+## ОБРАТИТЕ ВНИМАНИЕ, ПОЖАЛУЙСТА!
+Гитхаб не дал загрузить файл с кодом из-за большого размера. 
+Вот ссылка на этот файл: 
+
+# https://drive.google.com/open?id=1ND5esNd9-OJZQksiQ6Douz8CLdGo26Ih
